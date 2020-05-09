@@ -1,5 +1,5 @@
 import pygame
-from gui import *
+from Gui import *
 
 
 window = Window(800, 600, "#ffffff", title="GUI-TEST", icon="NNC.ico")
